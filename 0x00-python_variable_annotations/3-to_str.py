@@ -2,7 +2,7 @@
 """Converts an integer to string"""
 
 
-def to_str(n: int) -> str:
+def to_str(n: float) -> str:
     """Converts an integer to string
 
     Args:
